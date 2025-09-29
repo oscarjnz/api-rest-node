@@ -1,4 +1,4 @@
-# API REST con Node.js y FIrebase
+# API REST con Node.js y Firebase
 
 ## Instalación
 
